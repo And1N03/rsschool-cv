@@ -7,6 +7,8 @@
 **discord**: and1n03<br>
 **github**: https://github.com/And1N03<br>
 
+
+
 ### About me:
 lorem input....
 
@@ -18,4 +20,9 @@ lorem input....
 * RS-school - **"JS/FE Pre-School 2023Q2"** <br>
 06.2022 - present days
 
-*English level B1*
+### language:
+
+* *English* - B1<br>
+* *Russian* - Native<br>
+* *Belarussian* - Native <br>
+
