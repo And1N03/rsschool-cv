@@ -12,6 +12,13 @@
 ### About me:
 lorem input....
 
+### Skills
+* git<br>
+* HTML<br>
+* CSS<br>
+* JS<br>
+* Python<br>
+
 ### Education:
 * Skillbox - **"Profession Frontend-developer from Zero to PRO"** <br>
 2023 - present days
