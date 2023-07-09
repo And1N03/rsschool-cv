@@ -27,7 +27,7 @@ lorem input....
 
 ### language:
 
-* *English* - B1
+* *English - B1
 * *Russian* - Native
 * *Belarussian* - Native
 
